@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Reza Amini — Learn Build Improve" width="100%">
+  <img src="./assets/banner.jpeg" alt="Reza Amini — Learn Build Improve" width="100%">
 </div> 
 
 <h1>👋 Hey, I'm Reza Amini</h1>
