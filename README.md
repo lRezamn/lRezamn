@@ -30,7 +30,7 @@ console.log("Thanks for visiting my profile! 🚀");
 
 ## ⚡ Tech Stack
 
-<div align="center">
+<div>
 <kbd>
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript" alt="JavaScript">
 </kbd>
@@ -38,16 +38,16 @@ console.log("Thanks for visiting my profile! 🚀");
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript" alt="TypeScript">
 </kbd>
 <kbd>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS">
+</kbd>
+<kbd>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react" alt="React">
 </kbd>
 <kbd>
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js" alt="Next.js">
 </kbd>
-<kbd>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS">
-</kbd>
 
-<br>
+<!-- <br> -->
 <kbd>
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" alt="PHP">
 </kbd>
@@ -67,7 +67,7 @@ console.log("Thanks for visiting my profile! 🚀");
   <img src="https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify" alt="Fastify">
 </kbd>
 
-<br>
+<!-- <br> -->
 <kbd>
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql" alt="MySQL">
 </kbd>
