@@ -47,7 +47,8 @@ console.log("Thanks for visiting my profile! 🚀");
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js" alt="Next.js">
 </kbd>
 
-<!-- <br> -->
+<br> 
+
 <kbd>
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" alt="PHP">
 </kbd>
@@ -67,7 +68,8 @@ console.log("Thanks for visiting my profile! 🚀");
   <img src="https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify" alt="Fastify">
 </kbd>
 
-<!-- <br> -->
+<br> 
+
 <kbd>
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql" alt="MySQL">
 </kbd>
